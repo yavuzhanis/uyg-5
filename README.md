@@ -1,1 +1,2 @@
-# uyg-5
+# Javascript dilinde yaptığım uygulamadır.
+#Fonksiyonlar Kullanılmıştır.
